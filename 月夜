@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>無題</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f9f9f9;
+    }
+    #text-display {
+      width: 100%;
+      padding: 20px;
+      font-size: 18px;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+<h1>月夜</h1>
+<div id="text-display">
+  畫外青山雲外雲，九霄月臥落長裙。 
+  涼風萍打玉翠珠，暗香近似柳色新。-晴川
+</div>
+
+</body>
+</html>
